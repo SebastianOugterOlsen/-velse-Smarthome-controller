@@ -20,7 +20,7 @@ Så snart huset opfanger at telefonen forlader huset, skal det automatisk vide a
 **-** Justere på varmen. <Br />
 **-** Støvsuge hele huset. <Br />
 
-Når telefonen sættes til opladning i stikket ved sengen <Br />
+Når telefonen sættes til opladning i stikket ved sengen: <Br />
 **-** Justere på varmen. <Br />
 
 Når vækkeuret ringer: <Br />
