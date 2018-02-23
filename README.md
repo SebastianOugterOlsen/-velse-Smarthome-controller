@@ -28,7 +28,7 @@ Når vækkeuret ringer: <Br />
 **-** Skrue stille og roligt op for lyset. <Br />
 **-** Kaffen skal være klar. <Br />
 
-Når du enter/leave et rum <Br />
+Når du enter/leave et rum: <Br />
 **-** Skal lyset tænde/slukke <Br />
 
 
