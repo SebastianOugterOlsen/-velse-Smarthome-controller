@@ -6,7 +6,7 @@ Følgende skal inkluderes: <Br />
 **1-** Lys  <Br />
 **2-** Varme (Radiator styring)  <Br />
 **3-** Kaffemaskine  <Br />
-**4-** Væggeur  <Br />
+**4-** Vækkeur  <Br />
 **5-** Robot støvsuger   <Br /> <Br />
 
 ### **2.** Use case <Br />
@@ -42,7 +42,7 @@ Når du enter/leave et rum: <Br />
 **-** Varme.java <Br />
 **-** Kaffe.java <Br />
 **-** Støvsuge.java <Br />
-**-** Væggeur.java <Br />
+**-** Vækkeur.java <Br />
 
 
 
