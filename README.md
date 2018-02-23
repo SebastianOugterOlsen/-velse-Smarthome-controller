@@ -1,5 +1,6 @@
 # Oevelse-Smarthome-controller
 
+### **1.** Identify the problem domain <Br />
 "Klienten" ønsker at få installeret et IOT-smarthome styresystem, til at opgradere sit hjem.  <Br />
 Følgende skal inkluderes: <Br />
 **1-** Lys  <Br />
@@ -7,6 +8,8 @@ Følgende skal inkluderes: <Br />
 **3-** Kaffemaskine  <Br />
 **4-** Væggeur  <Br />
 **5-** Robot støvsuger   <Br /> <Br />
+
+### **2.** Use case <Br />
 
 Hjemmet skal kunne styres via en smartphone, både manuelt og automatisk ved detection af telefonen. <Br />
 
@@ -32,3 +35,21 @@ Når du enter/leave et rum: <Br />
 **-** Skal lyset tænde/slukke <Br />
 
 
+### **3.** Design your classes <Br />
+**-** SystemMain.java <Br />
+**-** Hus.java <Br />
+**-** Lys.java  <Br />
+**-** Varme.java <Br />
+**-** Kaffe.java <Br />
+**-** Støvsuge.java <Br />
+**-** Væggeur.java <Br />
+
+
+
+
+
+
+
+
+
+### **4.** Abstraction  and interfaces <Br />
