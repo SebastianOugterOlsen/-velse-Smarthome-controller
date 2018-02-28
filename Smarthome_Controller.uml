@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="382.0" y="254.0">Støvsuge</node>
+    <node x="654.6367424242425" y="0.0">Lokation</node>
+    <node x="194.0" y="254.0">Kaffe</node>
+    <node x="805.0" y="254.0">Lys</node>
+    <node x="746.6507575757576" y="498.0">Hus</node>
+    <node x="0.0" y="254.0">Varme</node>
+    <node x="595.0" y="254.0">Vækkeur</node>
+    <node x="401.30340909090916" y="0.5">OnOff</node>
+    <node x="727.1507575757576" y="644.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Vækkeur" target="Lokation">
+      <point x="71.25" y="-82.0" />
+      <point x="21.5" y="37.0" />
+    </edge>
+    <edge source="Hus" target="Lys">
+      <point x="-9.875" y="-48.0" />
+      <point x="815.7757575757576" y="438.0" />
+      <point x="831.3333333333334" y="438.0" />
+      <point x="-52.666666666666664" y="82.0" />
+    </edge>
+    <edge source="Støvsuge" target="OnOff">
+      <point x="-72.375" y="-82.0" />
+      <point x="406.125" y="154.0" />
+      <point x="458.00340909090914" y="154.0" />
+      <point x="-6.300000000000011" y="36.5" />
+    </edge>
+    <edge source="Main" target="Hus">
+      <point x="-46.0" y="-25.5" />
+      <point x="773.1507575757576" y="619.0" />
+      <point x="786.1507575757576" y="619.0" />
+      <point x="-39.5" y="48.0" />
+    </edge>
+    <edge source="Varme" target="OnOff">
+      <point x="-65.25" y="-82.0" />
+      <point x="21.75" y="114.0" />
+      <point x="407.60340909090917" y="114.0" />
+      <point x="-56.69999999999999" y="36.5" />
+    </edge>
+    <edge source="Vækkeur" target="OnOff">
+      <point x="-23.75" y="-82.0" />
+      <point x="666.25" y="154.0" />
+      <point x="495.80340909090916" y="154.0" />
+      <point x="31.5" y="36.5" />
+    </edge>
+    <edge source="Kaffe" target="Lokation">
+      <point x="21.0" y="-82.0" />
+      <point x="299.0" y="194.0" />
+      <point x="690.4700757575758" y="194.0" />
+      <point x="-50.16666666666663" y="37.0" />
+    </edge>
+    <edge source="Kaffe" target="OnOff">
+      <point x="-21.0" y="-82.0" />
+      <point x="257.0" y="144.0" />
+      <point x="445.4034090909092" y="144.0" />
+      <point x="-18.899999999999977" y="36.5" />
+    </edge>
+    <edge source="Lys" target="Lokation">
+      <point x="59.25" y="-82.0" />
+      <point x="943.25" y="114.0" />
+      <point x="790.8034090909092" y="114.0" />
+      <point x="50.16666666666674" y="37.0" />
+    </edge>
+    <edge source="Varme" target="Lokation">
+      <point x="21.75" y="-82.0" />
+      <point x="108.75" y="174.0" />
+      <point x="661.8034090909091" y="174.0" />
+      <point x="-78.83333333333337" y="37.0" />
+    </edge>
+    <edge source="Hus" target="Lokation">
+      <point x="69.12499999999997" y="-48.0" />
+      <point x="894.7757575757576" y="478.0" />
+      <point x="988.6367424242425" y="478.0" />
+      <point x="988.6367424242425" y="94.0" />
+      <point x="819.4700757575758" y="94.0" />
+      <point x="78.83333333333336" y="37.0" />
+    </edge>
+    <edge source="Hus" target="Varme">
+      <point x="-69.125" y="-48.0" />
+      <point x="756.5257575757576" y="478.0" />
+      <point x="29.0" y="478.0" />
+      <point x="-58.0" y="82.0" />
+    </edge>
+    <edge source="Støvsuge" target="Lokation">
+      <point x="72.375" y="-82.0" />
+      <point x="550.875" y="224.0" />
+      <point x="733.4700757575758" y="224.0" />
+      <point x="-7.166666666666629" y="37.0" />
+    </edge>
+    <edge source="Lys" target="OnOff">
+      <point x="-19.75" y="-82.0" />
+      <point x="864.25" y="134.0" />
+      <point x="521.0034090909091" y="134.0" />
+      <point x="56.69999999999993" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.38200189666192974" x="710.2854175278712" y="352.55439857407737" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
